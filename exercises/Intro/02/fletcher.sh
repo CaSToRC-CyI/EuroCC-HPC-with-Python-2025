@@ -13,5 +13,5 @@
 module load Python
 
 date +"%T.%6N"
-srun python fletcher32.py /nvme/scratch/edu27/intro/data/03.txt
+srun python fletcher32.py /nvme/scratch/edu27/Intro/data/03.txt
 date +"%T.%6N"
